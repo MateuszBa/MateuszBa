@@ -1,8 +1,8 @@
 #  **MateuszBa**
-My name is **Mateusz Babul** but my most recent nicknames are Hinaokii and Deathrose.
+My name is **Mateusz Babul** but i go online as a Hinaokii and Deathrose most of the time.
 
 ## I'm a Python Developer.
-I'm a freshly graduated CS engineer at UAM in Poznań, Poland. Currently working as a Python Developer at Apator Powogaz where I develop internal apps to improve production and office work.
+I graduated as an CS engineer at UAM in Poznań, Poland. Currently working as a Python Developer at Apator Powogaz where I develop internal apps to improve production and office work.
 My engineer project: https://github.com/maneike/codeStats
 
 ## About this profile
